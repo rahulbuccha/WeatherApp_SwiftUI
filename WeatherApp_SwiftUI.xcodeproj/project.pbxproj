@@ -11,6 +11,7 @@
 		84429A68289624D4005114C7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84429A67289624D4005114C7 /* ContentView.swift */; };
 		84429A6A289624D7005114C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84429A69289624D7005114C7 /* Assets.xcassets */; };
 		84429A6D289624D7005114C7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84429A6C289624D7005114C7 /* Preview Assets.xcassets */; };
+		84429A74289641B1005114C7 /* WheatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84429A73289641B1005114C7 /* WheatherButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		84429A67289624D4005114C7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		84429A69289624D7005114C7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84429A6C289624D7005114C7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		84429A73289641B1005114C7 /* WheatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WheatherButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				84429A65289624D4005114C7 /* WeatherApp_SwiftUIApp.swift */,
 				84429A67289624D4005114C7 /* ContentView.swift */,
+				84429A73289641B1005114C7 /* WheatherButton.swift */,
 				84429A69289624D7005114C7 /* Assets.xcassets */,
 				84429A6B289624D7005114C7 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84429A74289641B1005114C7 /* WheatherButton.swift in Sources */,
 				84429A68289624D4005114C7 /* ContentView.swift in Sources */,
 				84429A66289624D4005114C7 /* WeatherApp_SwiftUIApp.swift in Sources */,
 			);
